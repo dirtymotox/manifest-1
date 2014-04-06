@@ -420,7 +420,7 @@
   
   <!-- Moto -->
   <project path="kernel/motorola/msm8960dt-common" name="CyanogenMod/android_kernel_motorola_msm8960dt-common" remote="github" revision="cm-11.0" />
-  <project path="device/motorola/msm8960dt" name="dirtymotox/android_device_motorola_msm8960dt" remote="github" revision="du44" />
+  <project path="device/motorola/moto_msm8960dt" name="dirtymotox/android_device_motorola_moto_msm8960dt" remote="github" revision="du44" />
   
   <!--frameworks-->
   <project path="frameworks/av" name="frameworks_av" remote="du" revision="du44" />
