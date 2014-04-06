@@ -107,7 +107,7 @@
   <project path="external/esd" name="platform/external/esd" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/eyes-free" name="platform/external/eyes-free" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
-  <project path="external/f2fs-tools" name="android_external_f2fs-tools" revision="du44" remote="du" />
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="cm" revision="cm-11.0"  />
   <project path="external/fdlibm" name="platform/external/fdlibm" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
@@ -199,7 +199,7 @@
   <project path="external/robolectric" name="platform/external/robolectric" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
-  <project path="external/sepolicy" name="platform/external/sepolicy" groups="pdk" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
+  <project path="external/sepolicy" name="ValidusAOSP/android_external_sepolicy" remote="github" revision="kk4.4" />
   <project path="external/sfntly" name="platform/external/sfntly" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
   <project path="external/skia" name="platform/external/skia" revision="refs/tags/android-4.4.2_r2" remote="aosp" />
