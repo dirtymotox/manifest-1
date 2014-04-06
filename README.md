@@ -11,7 +11,7 @@ Syncing the DU Source
 
     mkdir ~/du
     cd ~/du
-    repo init -u https://github.com/DirtyUnicorns-KitKat/manifest.git -b du44
+    repo init -u https://github.com/dirtymotox/manifest-1.git -b du44
     repo sync -f -j 4 | 8 | 16 | 24 | 32
 
 
